@@ -1,6 +1,6 @@
 The 'estimating-digital-trade.ipynb' includes the code needed to generate the estimates for trade in digital products described in "The Growth, Geography, and Implications of Digital Trade" by Viktor Stojkoski, Philipp Koch, Eva Coll, and César A. Hidalgo.
 
-The code was initially run in Python 3.9.13 and requires the following libraries:
+The code was initially run in Python 3.9.13 and uses the following libraries:
 
 * pandas version: 1.4.4
 * numpy version: 1.21.5
