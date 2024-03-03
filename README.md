@@ -57,7 +57,6 @@ This file include information on the total revenues of each firm and subsidiary.
 'year' - the year of the observation
 'category' - the category of the firm
 'value', - the total revenues of the firm in the category
-'total_category_value' - total world revenues of the digital sector (in USD) (not used)
 'parent' - name of the parent company
 'is_subsidiary' - yes if it is a subsidiary, no otherwise
 
