@@ -16,7 +16,7 @@ The code requires the following data files in order to be executed properly:
 
 * data.csv
 
-This file has the data required for the machine learning model. We provide this document but mute the columns 'trade_value' and 'total_export_value' as they describe data gathered from sensitive sources. The data file has the following columns:
+This file has the data required for the machine learning model. This file has sensitive information, and therefore we do not provide it. The data file has the following columns:
 
 'firm' - name of the parent firm
 'year' - the year of the observation
