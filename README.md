@@ -1,4 +1,4 @@
-The 'estimating-digital-trade.ipynb' includes the code needed to generate the estimates for trade in digital products described in "The Growth, Geography, and Implications of Digital Trade" by Viktor Stojkoski, Philipp Koch, Eva Coll, and César A. Hidalgo.
+The 'estimating_digital_trade-final.ipynb' includes the code needed to generate the estimates for trade in digital products described in "The Growth, Geography, and Implications of Digital Trade" by Viktor Stojkoski, Philipp Koch, Eva Coll, and César A. Hidalgo.
 
 The code was initially run in Python 3.9.13 and uses the following libraries:
 
@@ -48,7 +48,7 @@ This file has the data required for the machine learning model. This file has se
 'iso_o_loc' - World region of the country of origin of the headquarters (as defined by United Nations geoscheme)
 'iso_d_loc' - World region of the country where the product is consumed (as defined by United Nations geoscheme)
 
-* firms_revenue_subsidiary.csv
+* firms_revenue_by_subsidiary.csv
 
 This file include information on the total revenues of each firm and subsidiary. We provide this document but mute the column 'value' as it consists of data gathered from other sources. The data file has the following columns:
 
